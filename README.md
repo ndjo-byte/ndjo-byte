@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndjo-byte&label=Profile%20views&color=0e75b6&style=flat" alt="ndjo-byte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndjo-byte" alt="ndjo-byte" /></a> </p>
-
 - 🔭 I’m currently working on [Improving my MVP Churn Predictor App](https://github.com/ndjo-byte/Machine_Learning_ChurnRate)
 
 - 🌱 I’m currently learning **I am currently developing practical understanding of Neural Networks**
