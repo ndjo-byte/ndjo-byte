@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Check out my Linkedin!](Check out my Linkedin!)
 
-- ⚡ Fun fact **I mad about Triathlon and love the mountains!**
+- ⚡ Fun fact **I am mad about Triathlon and love the mountains!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
