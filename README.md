@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on [Improving my MVP Churn Predictor App](https://github.com/ndjo-byte/Machine_Learning_ChurnRate)
 
-- 🌱 I’m currently learning **I am currently developing practical understanding of Neural Networks**
+- 🌱 I’m currently developing **my practical understanding of Neural Networks**
 
 - 👯 I’m looking to collaborate on [Kaggle Machine Learning Competitions](https://www.kaggle.com/njones123)
 
-- 👨‍💻 All of my projects are available at [potfolio is forthcoming](potfolio is forthcoming)
-
 - 💬 Ask me about **Python, exploring dataset or creating AI Models**
 
-- 📄 Know about my experiences [Check out my Linkedin!](Check out my Linkedin!)
+- 📄 Know about my experiences [Check out my Linkedin!](www.linkedin.com/in/nathan-jo)
 
 - ⚡ Fun fact **I am mad about Triathlon and love the mountains!**
 
