@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndjo-byte&label=Profile%20views&color=0e75b6&style=flat" alt="ndjo-byte" /> </p>
 
-- 🔭 I’m currently working on [Improving my MVP Churn Predictor App](https://github.com/ndjo-byte/Machine_Learning_ChurnRate)
+- 🔭 I’m currently working on [Improving my multi-agent generative AI application by implementing LangGraph](https://github.com/ndjo-byte/LLM_Agentes_ListaDeCompras_Mercadona)
 
 - 🌱 I’m currently developing **my practical understanding of Neural Networks**
 
-- 👯 I’m looking to collaborate on [Kaggle Machine Learning Competitions](https://www.kaggle.com/njones123)
+- 👯 I’m looking to collaborate on **anything data!**
 
 - 💬 Ask me about **Python, exploring dataset or creating AI Models**
 
-- 📄 Know about my experiences [Check out my Linkedin!](www.linkedin.com/in/nathan-jo)
+- 📄 Find out about my professional experience [Check out my Linkedin!](www.linkedin.com/in/nathan-jo)
 
 - ⚡ Fun fact **I am mad about Triathlon and love the mountains!**
 
