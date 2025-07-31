@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndjo-byte&label=Profile%20views&color=0e75b6&style=flat" alt="ndjo-byte" /> </p>
 
-- 🔭 I’m currently working on [improving my multi-agent generative AI application by implementing LangGraph](https://github.com/ndjo-byte/LLM_Agentes_ListaDeCompras_Mercadona)
+- 🔭 I am currently working on [improving my multi-agent generative AI application by implementing LangGraph](https://github.com/ndjo-byte/LLM_Agentes_ListaDeCompras_Mercadona)
 
-- 👯 I’m looking to collaborate on **anything data!**
+- 👯 I would be delighted to collaborate on **anything data!**
 
 - 💬 Ask me about **Python, exploring datasets or creating AI Models**
 
-- 📄 Feel free to view my professional experience and connect: [Linkedin!](www.linkedin.com/in/nathan-jo)
+- 📄 Feel free to view my professional experience and connect on [Linkedin](www.linkedin.com/in/nathan-jo)
 
-- ⚡ 3 things about me: **I am passionate about triathlon, speak 3 languages, and love the mountains!**
+- ⚡ 3 things about me: **I thrive when I am learning and doing, I am passionate about triathlon, and I speak 3 languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
